@@ -1,2 +1,2 @@
 # alaudacli
-Alauda CLI rnning environment
+Alauda CLI running environment
